@@ -1,4 +1,10 @@
-#cybersecurity 
+
+---
+title: "Asset Management"
+draft: false
+tags:
+- cybersecurity
+---
 
 **Asset management** is the process of tracking assets and the risks that affect them. The idea behind this process is simple: you can only protect what you know you have
 
@@ -25,5 +31,4 @@ sensitivity and importance of an asset typically requires knowing the following:
 - **Internal-only** describes assets that are available to employees and business partners.
     
 - **Public** is the lowest level of classification. These assets have no negative consequences to the organization if they’re released.
-
 

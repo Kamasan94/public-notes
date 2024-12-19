@@ -4,8 +4,7 @@ longform:
   title: Cybersecurity
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
