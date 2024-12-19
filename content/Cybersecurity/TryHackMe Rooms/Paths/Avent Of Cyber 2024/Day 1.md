@@ -1,9 +1,9 @@
 ---
-title: "<% tp.file.title %>"
+title: <% Day1 %>
 draft: false
 tags:
-- cybersecurity
-- opsec
+  - cybersecurity
+  - opsec
 ---
 # Maybe SOC-mas music, he thought, doesn't come from a store
 ### Investigating the Website
