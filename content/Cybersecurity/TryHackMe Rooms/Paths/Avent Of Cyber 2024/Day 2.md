@@ -1,9 +1,9 @@
 ---
-title: "One man's false positive is another man's potpourri."
+title: Day 2 - One man's false positive is another man's potpourri.
 draft: false
 tags:
-- cybersecurity
-- logAnalysis
+  - cybersecurity
+  - logAnalysis
 ---
 ### Making a Decision
 The problem is if an alert is False Positive or True Positive

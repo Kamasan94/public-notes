@@ -1,8 +1,8 @@
 ---
-title: "Maybe SOC-mas music, he thought, doesn't come from a store"
+title: Day 1 - Maybe SOC-mas music, he thought, doesn't come from a store
 draft: false
 tags:
-- cybersecurity
+  - cybersecurity
 ---
 ### Investigating the Website
 

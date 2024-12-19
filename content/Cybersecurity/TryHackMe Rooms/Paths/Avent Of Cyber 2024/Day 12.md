@@ -1,5 +1,5 @@
 ---
-title: If I can’t steal their money, I’ll steal their joy!
+title: Day 12 - If I can’t steal their money, I’ll steal their joy!
 draft: false
 tags:
   - cybersecurity

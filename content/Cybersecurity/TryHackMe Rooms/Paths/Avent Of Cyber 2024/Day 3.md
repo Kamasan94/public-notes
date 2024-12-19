@@ -1,9 +1,9 @@
 ---
-title: "Even if I wanted to go, their vulnerabilities wouldn't allow it."
+title: Day 3 - Even if I wanted to go, their vulnerabilities wouldn't allow it.
 draft: false
 tags:
-- cybersecurity
-- logAnalysis
+  - cybersecurity
+  - logAnalysis
 ---
 ## Operation Blue
 ### Log Analysis & Introducing ELK

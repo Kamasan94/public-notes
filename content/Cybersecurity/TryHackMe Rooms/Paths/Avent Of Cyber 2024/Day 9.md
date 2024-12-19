@@ -1,5 +1,5 @@
 ---
-title: Nine o'clock, make GRC fun, tell no one.
+title: Day 9 - Nine o'clock, make GRC fun, tell no one.
 draft: false
 tags:
   - cybersecurity

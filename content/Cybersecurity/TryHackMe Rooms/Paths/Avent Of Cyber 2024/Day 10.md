@@ -1,5 +1,5 @@
 ---
-title: He had a brain full of macros, and had shells in his soul.
+title: Day 10 - He had a brain full of macros, and had shells in his soul.
 draft: false
 tags:
   - cybersecurity

@@ -1,5 +1,5 @@
 ---
-title: Even if we're horribly mismanaged, there'll be no sad faces on SOC-mas!
+title: Day 14 - Even if we're horribly mismanaged, there'll be no sad faces on SOC-mas!
 draft: false
 tags:
   - cybersecurity

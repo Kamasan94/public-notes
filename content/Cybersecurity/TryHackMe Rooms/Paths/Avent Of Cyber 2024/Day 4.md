@@ -1,9 +1,9 @@
 ---
-title: "I’m all atomic inside!"
+title: Day 4 - I’m all atomic inside!
 draft: false
 tags:
-- cybersecurity
-- atomicRedTeam
+  - cybersecurity
+  - atomicRedTeam
 ---
 
 
