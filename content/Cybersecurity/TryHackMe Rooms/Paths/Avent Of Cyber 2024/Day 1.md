@@ -1,12 +1,9 @@
-
 ---
-title: "<% tp.file.title %>"
+title: "Maybe SOC-mas music, he thought, doesn't come from a store"
 draft: false
 tags:
 - cybersecurity
 ---
-
-# Maybe SOC-mas music, he thought, doesn't come from a store
 ### Investigating the Website
 
 It's a YouTube to Mp3 Converter

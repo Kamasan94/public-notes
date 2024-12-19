@@ -1,12 +1,10 @@
-
 ---
-title: "<% tp.file.title %>"
+title: "One man's false positive is another man's potpourri."
 draft: false
 tags:
 - cybersecurity
 - logAnalysis
 ---
-# One man's false positive is another man's potpourri.
 ### Making a Decision
 The problem is if an alert is False Positive or True Positive
 
