@@ -12,7 +12,7 @@ First thing, we enumerate the services of the machine
 nmap 10.10.232.136
 ```
 
-![[Pasted image 20250220185128.png]]
+![](Pasted%20image%2020250221123243.png)
 
 We se an http port so we try navigate in the browser
 http://10.10.232.136
@@ -23,6 +23,7 @@ sudo vi /etc/hosts
 ```
 
 ![[Pasted image 20250220185345.png]]
+
 
 We find a login page
 ![[Pasted image 20250220185535.png]]
